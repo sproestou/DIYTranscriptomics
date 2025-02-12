@@ -23,6 +23,9 @@
 *zip
 *index
 
+#exclude any compressed file for now
+*.gz
+
 # Output files from R CMD check
 /*.Rcheck/
 
