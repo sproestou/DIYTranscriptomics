@@ -22,6 +22,7 @@
 *fa
 *zip
 *index
+*.sig
 
 #exclude any compressed file for now
 *.gz
